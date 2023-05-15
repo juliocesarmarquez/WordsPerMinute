@@ -12,6 +12,22 @@ const WORDS = [
     "golden",
     "control",
     "beautify",
+    "nauseous",
+    "dilate",
+    "ingenious",
+    "minuscule",
+    "piece",
+    "prophet",
+    "buffet",
+    "wind",
+    "lead",
+    "quarter",
+    "putting",
+    "possess",
+    "entrance"
+
+
+
 ];
 
 function WordsPerMinute() {
