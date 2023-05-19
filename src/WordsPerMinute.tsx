@@ -60,6 +60,7 @@ function WordsPerMinute() {
 
     return (
     <div style={{display: "flex", flexDirection:"column", gap:12,textAlign:'center'}}>
+        <h1>🕜 WORD PER MINUTE ⚔️</h1>
         {Boolean(time) && <h1 style={{fontSize: 48}}>{word}</h1>}
         <h2>Characters typed: {characterCount}</h2>
         <h3>Remaining time: {time}</h3>
